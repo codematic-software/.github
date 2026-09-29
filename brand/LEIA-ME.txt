@@ -1,0 +1,25 @@
+CODEMATIC — PACOTE OFICIAL DE IDENTIDADE VISUAL
+
+Versão oficial: Prompt Essencial · Ciano
+Nome oficial: Codematic Software
+Organização GitHub: codematic-software
+Tagline: Processos complexos. Software simples.
+
+PALETA LIGHT
+Azul #315BFF | Ciano #18AFC4 | Grafite #151A24 | Branco #FFFFFF
+
+PALETA DARK
+Azul #7F95FF | Ciano #55D0DF | Branco #FFFFFF | Texto secundário #AEB7C7
+
+ARQUIVOS EM CADA PASTA LIGHT/DARK
+- codematic-symbol.svg — símbolo mestre
+- codematic-favicon.svg — favicon vetorial 64×64
+- codematic-site-icon.svg — ícone quadrado para site/PWA
+- codematic-github-avatar.svg — avatar da organização no GitHub
+- codematic-github-social-preview.svg — imagem social do GitHub em 1280×640
+- codematic-wordmark.svg — nome + descritor, sem símbolo
+- codematic-logo-horizontal.svg — logo completa horizontal
+- codematic-logo-horizontal-tagline.svg — logo com tagline
+- codematic-logo-vertical.svg — assinatura vertical
+
+Tipografia oficial: Manrope Medium 500. Todos os textos das logos foram convertidos em paths vetoriais. Não há dependência de fontes externas.

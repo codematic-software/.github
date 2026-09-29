@@ -1,4 +1,3 @@
-# .github
 <h1 align="center">Codematic</h1>
 <p align="center"><strong>Processos complexos. Software simples.</strong></p>
 

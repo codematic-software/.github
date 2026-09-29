@@ -3,7 +3,7 @@
 
 ---
 
-A **Codematic - Soluções em Software** desenvolve sistemas para organizações que
+A **Codematic Software** desenvolve sistemas para organizações que
 precisam transformar operações complexas em ferramentas claras e fáceis de usar.
 
 O cliente traz um processo disperso e cheio de exceções. Devolvemos um sistema
